@@ -9,6 +9,8 @@ You can either download repo or use plugin manager that you like. I personally u
 ## ScreenShot
 ![ScreenShot](./screenshots/mycolorscheme.png)
 
+![ScreenShot2](./screenshots/myscheme2.png)
+
 ## Note 
-If you use airline or lightline then the theme will not be supported.
+If you use airline or lightline then the theme will not be supported.  
 You can use any other airline or lightline theme.

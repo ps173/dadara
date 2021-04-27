@@ -3,10 +3,10 @@ syntax reset
 let g:colors_name = "dadara"
 set background=dark
 set t_Co=256
-hi Normal guifg=#D3C3FD ctermbg=NONE guibg=#000005 gui=NONE
+hi Normal guifg=#D3C3FD ctermbg=NONE guibg=#000000 gui=NONE
 
 hi CursorLineNR guibg=NONE guifg=#FF0080
-hi CursorLine guibg=#040404
+hi CursorLine guibg=#0E0E0E
 hi DiffText guifg=#BA3F8A guibg=NONE
 hi ErrorMsg guifg=#BA3F8A guibg=NONE
 hi WarningMsg guifg=#BA3F8A guibg=NONE
@@ -32,7 +32,7 @@ hi PreCondit guifg=#D22151 guibg=NONE
 hi Debug guifg=#D22151 guibg=NONE
 hi SpecialChar guifg=#D22151 guibg=NONE
 hi Conditional guifg=#D22151 guibg=NONE
-hi Todo guifg=#000005 guibg=#FF008F gui=NONE
+hi Todo guifg=#000000 guibg=#FF008F gui=NONE
 hi Special guifg=#213DD2 guibg=NONE
 hi Label guifg=#213DD2 guibg=NONE
 hi Delimiter guifg=#213DD2 guibg=NONE
@@ -62,8 +62,8 @@ hi PMenu guifg=#FF0080 guibg=#000005
 hi PMenuSel guifg=#000005 guibg=#FF0080
 hi SignColumn guibg=#00000500
 hi Title guifg=#dadada
-hi LineNr guifg=#747474 guibg=#00000500
-hi NonText guifg=#ff81e6 guibg=#00000500
+hi LineNr guifg=#747474 guibg=#000005
+hi NonText guifg=#ff81e6 guibg=#000005
 hi Comment guifg=#ff81e6 gui=italic
 hi SpecialComment guifg=#ff81e6 gui=italic guibg=#040404
 hi CursorLine guibg=#212121

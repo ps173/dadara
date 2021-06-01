@@ -60,7 +60,7 @@ hi cssAttr guifg=#bd13b4 guibg=NONE
 
 hi PMenu guifg=#FF0080 guibg=#000005
 hi PMenuSel guifg=#000005 guibg=#FF0080
-hi SignColumn guibg=#00000500
+hi SignColumn guibg=#000005
 hi Title guifg=#dadada
 hi LineNr guifg=#747474 guibg=#000005
 hi NonText guifg=#ff81e6 guibg=#000005
